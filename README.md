@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Dr. Eric Flores
-- 👀 I’m interested in programming in general as a hobby and in the integration and usability of the Linux Operating system.
-- 🌱 I’m currently learning Python, by coding little applications projects and converting those projects into Python.  This is what I can learning by comparison.
-- 💞️ I’m looking to other programmers to collaborate on modernizing GFABASIC,  (this is a just for fun projec).  The hope of collaboration is to modernized and create an even better Basic with a modern construct that can be used directly in the Linux operating System.
-- 📫 You can reach me via e-mail.  mailto:  eoftoro@gmail.com . Do mentoned that you are contacting me about this project or any other github project that I have uploaded.
+👋 **Hi, I’m Dr. Eric Flores!**  
+- 👀 I have a passion for programming as a hobby, with a special focus on the integration and usability of the Linux Operating System.  
+- 🌱 Currently, I’m deepening my skills in Python by converting small projects from C and C++ into Python. This hands-on approach helps me learn through comparison.  
+- 💞️ I’m interested in collaborating with other programmers to modernize *GFABASIC* as a fun side project. The goal is to create a modern version of BASIC with updated constructs that can run seamlessly on Linux.  
+- 📫 Feel free to reach out via email at [eoftoro@gmail.com](mailto:eoftoro@gmail.com). Please mention that you’re contacting me about this project or any other GitHub project I’ve shared.
 
 <!---
 drericflores/drericflores is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

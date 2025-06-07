@@ -1,0 +1,20 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node.js / JS tools (if used)
+node_modules/
+dist/
+.cache/
+*.log
+
+# Static site generators (Jekyll, Hugo, etc.)
+_site/
+public/
+

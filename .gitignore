@@ -1,0 +1,87 @@
+# === General ===
+*.log
+*.bak
+*.tmp
+*.swp
+*.DS_Store
+Thumbs.db
+
+# === C / C++ ===
+*.o
+*.out
+*.a
+*.so
+*.dll
+*.exe
+*.dSYM/
+*.obj
+*.idb
+*.pdb
+*.lib
+*.pch
+*.ilk
+*.tmp
+*.stackdump
+*.gcno
+*.gcda
+*.gcov
+
+# GTK build artifacts
+build/
+*.dep
+*.layout
+*.in
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+*.ipynb_checkpoints
+
+# === C# / .NET / ML.NET ===
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.log
+*.vs/
+.vscode/
+bin/
+obj/
+TestResults/
+*.dbmdl
+*.bak
+*.nupkg
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# === VS Code ===
+.vscode/
+.history/
+
+# === Linux-specific ===
+*~
+.nfs*
+
+# === Packaging / Archives ===
+*.tar.gz
+*.tar
+*.zip
+*.7z
+*.rar
+
+# === Certificates / Secrets ===
+*.pem
+*.key
+*.crt
+.env
+secrets.json
+config.json

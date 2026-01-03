@@ -16,8 +16,7 @@ If you’re interested in collaborating or discussing a specific project, feel f
 
 ## Overview
 
-I am a systems-oriented programmer with a strong focus on **Linux-native software**, **low-level tooling**, and **cross-language refactoring**.  
-My work spans **C, C++, Python, and Shell**, with projects ranging from modern desktop applications to retro-computing and embedded environments.
+I am a systems-oriented programmer with a strong focus on **Linux-native software**, **low-level tooling**, and **cross-language refactoring**.  My work spans **C, C++, Python, and Shell**, with projects ranging from modern desktop applications to retro-computing and embedded environments.
 
 A core part of my learning and development methodology is **refactoring and translating real-world C/C++ projects into Python (and vice versa)**. This side-by-side approach allows me to deeply understand algorithms, architectural decisions, memory models, and platform constraints across languages and systems.
 

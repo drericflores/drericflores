@@ -1,6 +1,6 @@
-I'm a passionate programmer who enjoys exploring the power and usability of the Linux operating system. Currently, I'm enhancing my Python expertise by refactoring C/C++ projects, learning through direct comparison and practical application.  Interested in connecting or collaborating? Feel free to reach out via email at eoftoro@gmail.com. Please reference our shared interests or a specific GitHub project in your message! 
+I’m a systems-oriented programmer with a strong interest in Linux, low-level software, and cross-platform development. I actively study and refactor existing C/C++ projects into Python as a structured learning approach—using side-by-side comparisons to deepen my understanding of algorithms, memory models, and architectural trade-offs across languages and platforms.
 
-<!---
-drericflores/drericflores is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This hands-on methodology allows me to rapidly internalize concepts by translating real-world codebases rather than relying solely on isolated examples. My interests span systems programming, tooling, retro-computing, and practical software engineering.
+
+If you’re interested in collaborating or discussing a specific project, feel free to reach out via email at eoftoro@gmail.com
+. Please reference a shared area of interest or a particular GitHub repository in your message.

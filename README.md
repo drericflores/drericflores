@@ -127,8 +127,4 @@ This helps keep discussions focused and productive.
 
 ---
 
-## GitHub Activity
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drericflores&layout=compact&hide_border=true)
-
 

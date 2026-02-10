@@ -133,10 +133,3 @@ When reaching out, please reference:
 This helps keep discussions focused and productive.
 
 ---
-
-If you want, I can also:
-
-* Produce a **short executive bio** (LinkedIn / conference style)
-* Create a **research-oriented version** (academia / lab tone)
-* Optimize this further for **GitHub discovery & recruiter scanning**
-* Add a **minimalist variant** for a second profile or organization page

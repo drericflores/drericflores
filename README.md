@@ -13,11 +13,11 @@
 
 ## Overview
 
-I am a **systems-oriented software engineer** focused on **Linux-native development**, **low-level tooling**, and **cross-language architecture analysis**. My work spans **C, C++, Python, and shell scripting**, with an emphasis on correctness, clarity, and long-term maintainability.
+I am a **systems-oriented software engineer** specializing in **Linux-native development**, **low-level tooling**, and **cross-language architectural analysis**. My work spans **C, C++, Python, and shell scripting**, with a strong emphasis on correctness, clarity, and long-term maintainability.
 
-A defining aspect of my workflow is **refactoring real-world C/C++ codebases into Python (and vice versa)** as a disciplined learning and engineering technique. By performing side-by-side translations, I analyze algorithmic structure, memory models, performance constraints, and architectural trade-offs across languages and platforms. This approach favors practical understanding over isolated examples.
+A central part of my engineering workflow is the **refactoring and translation of real-world C/C++ codebases into Python (and vice versa)**. This side-by-side approach enables direct analysis of algorithms, memory models, performance characteristics, and architectural trade-offs across languages and platforms. The goal is practical understanding derived from working systems rather than isolated examples.
 
-My repositories emphasize **working systems**, **clean design**, and **educational value**, often bridging modern Linux environments with retro-computing and constrained platforms.
+My repositories prioritize **functional software**, **clean design**, and **educational value**, often bridging modern Linux environments with retro-computing and resource-constrained platforms.
 
 ---
 
@@ -29,22 +29,22 @@ My repositories emphasize **working systems**, **clean design**, and **education
 * Performance-oriented C and C++ software
 * Minimal dependencies and predictable behavior
 
-### Cross-Language Refactoring
+### Cross-Language Engineering
 
-* Translating C/C++ utilities into Python for analysis and extensibility
-* Comparative study of compiled vs. interpreted architectures
+* Refactoring C/C++ utilities into Python for analysis and extensibility
+* Comparative evaluation of compiled versus interpreted architectures
 
 ### Retro-Computing & Emulation
 
 * Commodore 64 (Ultimate environment)
-* Atari ST (Hatari, SBC-based setups)
-* BASIC interpreters and historical workflows
+* Atari ST (Hatari, SBC-based platforms)
+* BASIC interpreters and historical development workflows
 
 ### Developer & Analysis Tools
 
 * Hex editors and binary inspection utilities
 * File comparison, validation, and auditing tools
-* Educational and engineering-focused utilities
+* Engineering-focused and educational utilities
 
 ---
 
@@ -52,17 +52,13 @@ My repositories emphasize **working systems**, **clean design**, and **education
 
 ### 🔹 **Ollama-GUI-Speak**
 
-Ollama-GUI Speak is a Linux-native interface that converts real-time LLM
-token streams into natural speech with minimal latency.
+A Linux-native interface that converts **real-time LLM token streams into natural speech** with minimal latency.
 
-The project solves the synchronization problem between asynchronous
-language-model output and sequential text-to-speech engines by buffering
-tokens and emitting speech at sentence boundaries instead of per-token
-or full-response delivery.
+The project addresses the synchronization gap between asynchronous language-model output and sequential text-to-speech engines by **buffering streamed tokens and emitting speech at sentence boundaries**, rather than per-token or full-response delivery.
 
-Designed as a systems-oriented reference implementation, it emphasizes
-streaming correctness, deterministic behavior, and clean separation
-between LLM ingestion, sentence detection, TTS dispatch, and GUI control.
+Designed as a **systems-oriented reference implementation**, the project emphasizes streaming correctness, deterministic behavior, and a clean separation between LLM ingestion, sentence detection, TTS dispatch, and GUI control.
+
+---
 
 ### 🔹 **pdfview**
 
@@ -70,7 +66,7 @@ between LLM ingestion, sentence detection, TTS dispatch, and GUI control.
 ![Linux](https://img.shields.io/badge/Linux-Native-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-A lightweight, native Linux PDF viewer built with **C++, GTKmm, and Poppler-GLib**, emphasizing clean rendering, responsive navigation, and minimal overhead.
+A lightweight native Linux PDF viewer built with **C++, GTKmm, and Poppler-GLib**, focused on clean rendering, responsive navigation, and minimal overhead.
 
 ---
 
@@ -80,7 +76,7 @@ A lightweight, native Linux PDF viewer built with **C++, GTKmm, and Poppler-GLib
 ![Linux](https://img.shields.io/badge/Linux-Desktop-lightgrey)
 ![License](https://img.shields.io/badge/License-GPLv3-green)
 
-A two-pane Linux file and directory comparison tool implementing **safe one-way synchronization logic** that never overwrites newer destination content.
+A two-pane Linux file and directory comparison tool implementing **safe one-way synchronization logic** that prevents overwriting newer destination content.
 
 ---
 
@@ -90,7 +86,7 @@ A two-pane Linux file and directory comparison tool implementing **safe one-way 
 ![Retro](https://img.shields.io/badge/Platform-Commodore%2064-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-A native text editor written in C and running directly inside the **Commodore 64 Ultimate** environment, designed to operate entirely within the C64 ecosystem.
+A native text editor written in C and running directly within the **Commodore 64 Ultimate** environment, designed to operate entirely inside the C64 ecosystem.
 
 ---
 
@@ -99,7 +95,7 @@ A native text editor written in C and running directly inside the **Commodore 64
 ![Python](https://img.shields.io/badge/Language-Python-yellow)
 ![Binary](https://img.shields.io/badge/Domain-Binary%20Analysis-purple)
 
-Hex and binary analysis tools aimed at engineers and reverse-engineering workflows, featuring split views and structured inspection of raw data.
+Hex and binary analysis tools for engineering and reverse-engineering workflows, supporting split views and structured inspection of raw data.
 
 ---
 
@@ -108,21 +104,21 @@ Hex and binary analysis tools aimed at engineers and reverse-engineering workflo
 ![C++](https://img.shields.io/badge/Language-C++-blue)
 ![Interpreter](https://img.shields.io/badge/Domain-Language%20Runtime-darkgreen)
 
-A modern BASIC interpreter inspired by **GFA BASIC**, implemented in C++ with extensibility, deterministic behavior, and engineering-grade use cases in mind.
+A modern BASIC interpreter inspired by **GFA BASIC**, implemented in C++ with an emphasis on extensibility, deterministic execution, and engineering-grade use cases.
 
 ---
 
-## Collaboration & Contribution
+## Collaboration
 
 I welcome collaboration with developers interested in:
 
 * Systems and low-level software engineering
 * Retro platforms and emulation
-* Cross-language learning and refactoring
-* Clean, readable, well-structured code
-* Educational or experimental tooling with real-world utility
+* Cross-language refactoring and analysis
+* Clean, readable, and well-structured code
+* Educational or experimental tools with real-world applicability
 
-Projects are intentionally scoped to remain approachable while encouraging meaningful experimentation and contribution.
+Projects are intentionally scoped to remain approachable while supporting meaningful experimentation and contribution.
 
 ---
 
@@ -130,7 +126,7 @@ Projects are intentionally scoped to remain approachable while encouraging meani
 
 * **C / C++** — systems software, native Linux applications, retro platforms
 * **Python** — refactoring, analysis, automation, and GUIs
-* **Shell** — system integration, scripting, deployment
+* **Shell** — system integration, scripting, and deployment
 * **Qt / GTK** — native Linux user interfaces
 
 ---

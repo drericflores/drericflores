@@ -50,6 +50,20 @@ My repositories emphasize **working systems**, **clean design**, and **education
 
 ## Selected Projects
 
+### 🔹 **Ollama-GUI-Speak**
+
+Ollama-GUI Speak is a Linux-native interface that converts real-time LLM
+token streams into natural speech with minimal latency.
+
+The project solves the synchronization problem between asynchronous
+language-model output and sequential text-to-speech engines by buffering
+tokens and emitting speech at sentence boundaries instead of per-token
+or full-response delivery.
+
+Designed as a systems-oriented reference implementation, it emphasizes
+streaming correctness, deterministic behavior, and clean separation
+between LLM ingestion, sentence detection, TTS dispatch, and GUI control.
+
 ### 🔹 **pdfview**
 
 ![C++](https://img.shields.io/badge/C++-GTKmm-blue)

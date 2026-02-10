@@ -1,8 +1,3 @@
-Below is a **fully revised, redundancy-free, and professional GitHub profile README**.
-Tone is technical, concise, and engineering-oriented, suitable for senior systems work, research, and serious collaboration.
-
-You can paste this directly into your GitHub profile README.
-
 ---
 
 # Dr. Eric O. Flores

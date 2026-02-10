@@ -130,6 +130,4 @@ When reaching out, please reference:
 * A specific repository, or
 * A shared technical interest
 
-This helps keep discussions focused and productive.
-
 ---

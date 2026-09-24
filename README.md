@@ -1,5 +1,3 @@
----
-
 # Dr. Eric O. Flores
 
 ![Linux](https://img.shields.io/badge/Platform-Linux-lightgrey)
@@ -144,5 +142,3 @@ When reaching out, please reference:
 * A shared technical interest
 
 This helps keep discussions focused and productive.
-
----

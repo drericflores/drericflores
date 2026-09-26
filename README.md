@@ -58,6 +58,18 @@ This project is an **engineering-focused extension and exploration inspired by t
 🔗 **Original upstream project:** [https://github.com/chyok/ollama-gui](https://github.com/chyok/ollama-gui)
 
 Ollama-GUI-Speak builds upon that foundation while exploring advanced streaming orchestration, sentence-level buffering, and real-time speech integration.
+---
+### 🔹 **eFCrawler**
+
+![C++](https://img.shields.io/badge/C++-23-blue)
+![Qt](https://img.shields.io/badge/Qt-6-green)
+![Linux](https://img.shields.io/badge/Linux-Native-lightgrey)
+![License](https://img.shields.io/badge/License-GPLv3-green)
+
+**Easy Flexible Crawler** — autonomous research and resource discovery for
+Linux. Give it a topic and it performs **structured searches, gathers web and
+PDF resources, classifies them by type, and opens or downloads them
+directly**. Built with **C++23 and Qt6**.
 
 ---
 
